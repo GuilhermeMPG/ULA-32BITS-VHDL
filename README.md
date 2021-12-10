@@ -40,3 +40,7 @@ A ULA pode ter todas as operações em um único VHDL, tal como em Teste 10, que
 Um VHDL ULA-1bit fará o port map dos demais códigos VHDLs.
 Outro VHDL ULA-32bits fará o port map entre as ULAs de 1 bit.
 Para testes de cada bloco ou dos blocos principais (ULAs) o grupo deve criar arquivos VHDL chamados test bench.
+
+
+
+Link Video Demonstração: https://youtu.be/XWwoD2dpjYc
